@@ -28,7 +28,8 @@
 
 ![jaiaani's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiaani&layout=compact&show_icons=true&theme=radical)
 
-
+![Snake animation](https://github.com/jaiaani/jaiaani/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                            
 <br>
 <p><b>     
 </div>
