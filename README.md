@@ -1,21 +1,8 @@
  
 <div>
 <h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
-<img src="https://giffiles.alphacoders.com/189/189996.gif" width="300px"  align="right">
-
-🌱 Linux Mint  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 
-✨ Iniciante do no mundo da programação✨
-
-🔎 curiosa com a área de DevOps 🔍
-  
-
-🇩🇪 Ich studiere Deutsch 
-    
-  
-
-<br><br>
 
 
 
